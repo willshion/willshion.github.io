@@ -11,9 +11,19 @@ oh yes
 
 
 【***】
+
+
+
 6   git add --all
+
+
 7   git commit -m "Initial commit"
+
+
 8   git push -u origin master
+
+
+
 【+++】
 
 
